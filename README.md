@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ---
 
 Cursando Ciência da Computação
+
+
 Desenvolvedor Java Jr Full Stack.
  
 ---
