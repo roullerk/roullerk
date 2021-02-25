@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 
 ---
 
-Formada em Administração de Empresas pela faculdade ESAGS-FGV. 
-Atualmente mudando de carreira para uma futura Desenvolvedora Java Jr Full Stack.
-
-Amo dançar :dancer:, estudar novas tecnologias :books:, cantar :microphone: e fazer cosplay nas horas vagas <br>
-Sou mãe de dois cachorrinhos, o Oscar e o Pitoco :dog2:  
-
+Cursando Ciência da Computação
+Desenvolvedor Java Jr Full Stack.
+ 
 ---
 
 Atualmente estou realizando o Bootcamp da [Generation Brasil](https://brazil.generation.org/).  
@@ -34,7 +31,7 @@ Onde me encontrar? :mag:
 
 <a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn]
 
-<a href="jaqueline.cavalaro@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mail:victorfrds@gmail.com)  
+<a href="victorfrds@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mail:victorfrds@gmail.com)  
 
 ---  
 
