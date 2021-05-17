@@ -31,7 +31,7 @@ Atualmente estou realizando o Bootcamp da [Generation Brasil](https://brazil.gen
 
 Onde me encontrar? :mag:  
 
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn]
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a>
 
 <a href="victorfrds@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mail:victorfrds@gmail.com)  
 
