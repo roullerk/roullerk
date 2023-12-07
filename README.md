@@ -22,10 +22,6 @@ Cursando Ciência da Computação
 
 
 Desenvolvedor Java Jr Full Stack.
- 
----
-
-Atualmente estou realizando o Bootcamp da [Generation Brasil](https://brazil.generation.org/).  
 
 ---
 
